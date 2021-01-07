@@ -10,8 +10,8 @@
 <a href="#"><img title="VARGAS_250BOT" src="https://img.shields.io/badge/VARGAS_250-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-<a href="#"><img title="VARGAS_250" src="https://img.shields.io/badge/VARGAS_250-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+
+
 
 
 
@@ -97,7 +97,7 @@ $ node index.js
 |       ✅        |   Clear All Chats                |
 
 ### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi ðŸ‘¾AR15BOTðŸ‘¾`](https://saweria.co/aris187id)
+* [`Donasi VARGAS_250BOT`](https://saweria.co/aris187id)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
