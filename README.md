@@ -10,7 +10,8 @@
 <a href="#"><img title="VARGAS_250BOT" src="https://img.shields.io/badge/VARGAS_250-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-
+<a href="#"><img title="VARGAS_250" src="https://img.shields.io/badge/VARGAS_250-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 
 
@@ -37,11 +38,13 @@ $ git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
 $ cd termux-wa-bot-vargas_250
 $ bash install.sh 
 $ node index.js
+
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" alt="Mario Game" width="600" />
 
 
 
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif
+
 
 
 
