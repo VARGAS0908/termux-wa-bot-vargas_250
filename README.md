@@ -31,7 +31,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
 ```
 
 ## Install the dependencies:
