@@ -28,25 +28,32 @@
  
 </details>
 
-## Cara pemasangnya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+## Cara masangnya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+$ pkg update && pkg upgrade 
+$ pkg install git 
+$ pkg install ffmpeg
+$ pkg install libwebp
+$ git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
+$ cd termux-wa-bot-vargas_250
+$ bash install.sh 
+$ node index.js
 
-```bash
-> git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
-```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
 
-```bash
-> cd termux-wabot
-> bash install.sh
-```
 
-### Usage
-```bash
-> npm start
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Features  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
