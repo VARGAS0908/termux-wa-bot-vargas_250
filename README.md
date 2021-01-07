@@ -92,13 +92,13 @@ you've just cloned!!
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
+* [`Instagram Admin`](https://instagram.com/VARGAS_250/)
 * [`WhatsApp Admin `](https://wa.me/+6285722553839)
 * [`group`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
-## Group 
+
 
 
 
