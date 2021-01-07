@@ -95,7 +95,7 @@ you've just cloned!!
 * [`Instagram Admin`](https://instagram.com/VARGAS_250/)
 * [`WhatsApp Admin `](https://wa.me/+6281227560249)
 
-* [`group`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
+* [`group`](https://chat.whatsapp.com/CWSgYJnbiFWFuQyY9VXDGb)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
