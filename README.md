@@ -97,7 +97,7 @@ $ node index.js
 |       ✅        |   Clear All Chats                |
 
 ### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi VARGAS_250BOT`](https://saweria.co/aris187id)
+* [`Donasi VARGAS_250BOT`](https://pastelink.net/2hgqg)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
