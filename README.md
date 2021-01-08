@@ -16,14 +16,15 @@
 </details>
 
 ## Cara masangnya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-$ pkg update && pkg upgrade 
-$ pkg install git 
-$ pkg install ffmpeg
-$ pkg install libwebp
-$ git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
-$ cd termux-wa-bot-vargas_250
-$ bash install.sh 
-$ node index.js
+
+> pkg update && pkg upgrade 
+> pkg install git 
+> pkg install ffmpeg
+> pkg install libwebp
+> git clone https://github.com/VARGAS0908/termux-wa-bot-vargas_250
+> cd termux-wa-bot-vargas_250
+> bash install.sh 
+> node index.js
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" alt="Mario Game" width="600" />
